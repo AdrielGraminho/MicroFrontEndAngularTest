@@ -4,8 +4,8 @@ No diretório mfe1 está um microfrontend que está expondo um modulo para teste
 
 Para executar o mfe1, no diretório da aplicação execute:
     npm i
-    ng serve mfe1 -o
+     e depois ng serve mfe1 -o
 
 Para executar o shell, no diretório da aplicação execute:
     npm i
-    ng serve shell -o
+     e depois ng serve shell -o
